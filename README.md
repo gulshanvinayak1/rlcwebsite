@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gulshanvinayak1/rlcwebsite/main/Logo%20RLC.jpg" width="200" alt="RLC Logo">
+</p>
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
